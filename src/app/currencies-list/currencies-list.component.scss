@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+
+section {
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.options {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
